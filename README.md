@@ -48,9 +48,3 @@ Through my postgraduate studies and professional experience, I have honed my ski
 
 ### Ongoing Projects and Interests
 I am continually exploring the intersection of healthcare and data science, focusing on how data can improve patient outcomes and operational efficiency. Feel free to explore my projects and follow my journey as I contribute to the GitHub community. If you'd like to collaborate or have any questions, don’t hesitate to reach out. Let's push the boundaries of healthcare with data-driven solutions! 🚀📊💡
-
-Feel free to explore my projects and follow my progress as I continue to learn and contribute to the GitHub community. If you have any questions or would like to collaborate on a project, please don't hesitate to get in touch. Let's learn and grow together! 🚀📊🔬
-
-
-
-
