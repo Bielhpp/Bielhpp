@@ -17,7 +17,7 @@ Here are some of the skills and knowledge areas that I am constantly improving a
 - **Auditoria interna**
 - **Database**
 - **Data Collection**
-- **Dados não estruturados**
+- **Not-Structure Data**
 - **Data Analysis**
 - **Data Science**
 - **Databricks**
